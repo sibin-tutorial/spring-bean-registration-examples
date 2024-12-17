@@ -1,0 +1,13 @@
+package edu.raj.dev;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringCoreExampleApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
